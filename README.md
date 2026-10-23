@@ -47,3 +47,10 @@ To combine my HR experience with AI and analytics skills to support smarter recr
 ---
 *This portfolio is a work in progress and will be updated as I complete new projects and learning milestones.*
 Add professional HR AI portfolio README
+
+
+## Certifications
+
+- [AI for HR Professionals](CERTIFICATIONS.md) — Completed
+
+Explore my [certifications and professional learning](CERTIFICATIONS.md).
